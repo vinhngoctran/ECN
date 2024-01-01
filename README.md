@@ -1,4 +1,4 @@
-Simulation data: 
+Simulation data (download): 
 
 The NWM-ECN simulation data for 42,407 flood events over 4497 locations is stored in the NWM-ECN.zip file. Specifically, the zip file contains 44,970 text files, each of which corresponds to a location and its corresponding lead time predictions (44970 = 4497 locations * 10 lead time predictions).
 The file names are structured as "NWM-ECN_USGS=" + Name/ID of USGS gage + "_LT=" + lead time + "-day.txt".
